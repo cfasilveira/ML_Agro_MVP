@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.txt
+
+# Volumes Docker
+pgdata/
